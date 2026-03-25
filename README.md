@@ -1,0 +1,70 @@
+# Fundy Tuner — Beta
+
+**Early access beta for Android. Not yet on the Play Store.**
+
+Fundy Tuner is a banjo tuner built specifically for clawhammer and old-time players. It goes beyond standard chromatic tuners with a sweetness slider for just intonation, a precision strobe, and a set of tools designed around the way banjo players actually work.
+
+---
+
+## Beta Notice
+
+This is an early release for feedback from real players. Things work well but you may hit rough edges. Your bug reports and suggestions directly shape what gets fixed and what gets built next.
+
+If something breaks or feels off, please let us know — details below.
+
+---
+
+## Features
+
+**Main Tuner**
+- Chromatic tape display with real-time cent deviation, sweetener-compensated so the target moves with your intonation setting
+- Precision strobe tuner — single or multi-harmonic ring modes
+- Sweetness slider: blend between equal temperament and just intonation, string by string, to get that open-chord ring
+- Supports 5-string, tenor, and plectrum banjo with multiple tunings per instrument
+- Auto string detection — plays the right string as you tune across the neck
+- Capo / transposition controls
+
+**Tools**
+- **Bridge Setup** — step-by-step intonation tool. Compares your 12th fret harmonic to the fretted note and tells you which direction to move the bridge and how far (in mm). Works even if your banjo isn't at concert pitch
+- **Restring Helper** — plays a sustained drone of each string's target note while you're restringing, with a small strobe so you can tune by ear as you go
+- **Custom Sweetened Tunings** — tune your banjo by ear until it sounds right, then record the string intervals as a named preset. The app captures your exact intonation and lets you retune to it any time
+
+**Settings**
+- A4 reference adjustable from 432–446 Hz
+- Match Pitch: tap a button, play any note on a nearby instrument, and the app shifts all string targets to match its pitch for the session — useful for playing with an out-of-tune piano or matching a recording
+- Dark / light mode
+- Toggle individual features on or off to keep the screen clean
+
+---
+
+## Install (Android Sideload)
+
+1. On your Android phone, go to **Settings > Apps > Special app access > Install unknown apps** and allow installs from your browser or file manager
+2. Download the APK from the [Releases](../../releases) tab on this page
+3. Open the downloaded file and tap Install
+4. Open Fundy Tuner and grant microphone permission when prompted
+
+> Tested on Android 10 and above. If you run into install issues on your specific device, let us know your Android version.
+
+---
+
+## Reporting Bugs & Feedback
+
+Two ways to reach us:
+
+- **GitHub Issues** (preferred for bugs): [Open an issue](../../issues/new) and describe what happened, what you expected, and your device/Android version if you know it
+- **Direct contact**: [fundybanjos@gmail.com](mailto:fundybanjos@gmail.com) — feel free to email directly if you'd rather not use GitHub
+
+All feedback is read. Thank you for helping make this better.
+
+---
+
+## Planned
+
+- iOS release
+- Play Store listing
+- Additional tunings and instruments
+
+---
+
+*Fundy Tuner v1.1.0 — Android beta*
