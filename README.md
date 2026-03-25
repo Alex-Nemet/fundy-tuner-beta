@@ -68,3 +68,7 @@ All feedback is read. Thank you for helping make this better.
 ---
 
 *Fundy Tuner v1.1.0 — Android beta*
+
+---
+
+© 2026 Fundy Banjos. Released under [CC BY-NC-ND 4.0](LICENSE) — free to share, not for commercial use.
