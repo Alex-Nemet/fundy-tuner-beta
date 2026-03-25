@@ -59,6 +59,21 @@ All feedback is read. Thank you for helping make this better.
 
 ---
 
+## Permissions
+
+Fundy Tuner requests only what it needs to function. It has no internet access, makes no network requests, and collects no data.
+
+| Permission | Why |
+|---|---|
+| Microphone | Pitch detection — the core function of the tuner |
+| Modify Audio Settings | Drone playback in Restring Helper |
+| Vibrate | Haptic feedback when a string locks in tune |
+| Storage (Android 12 and below only) | Temporary audio buffer file for pitch detection |
+
+No internet permission. No analytics. No ads. Nothing leaves your device.
+
+---
+
 ## Planned
 
 - iOS release
