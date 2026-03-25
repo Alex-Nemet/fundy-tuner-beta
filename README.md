@@ -44,6 +44,8 @@ If something breaks or feels off, please let us know — details below.
 3. Open the downloaded file and tap Install
 4. Open Fundy Tuner and grant microphone permission when prompted
 
+> The APK is ~82MB — larger than a native app due to the React Native framework bundled inside. This is normal and doesn't affect performance.
+
 > Tested on Android 10 and above. If you run into install issues on your specific device, let us know your Android version.
 
 ---
