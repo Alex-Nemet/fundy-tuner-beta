@@ -21,6 +21,7 @@ If something breaks or feels off, please let us know — details below.
 - Precision strobe tuner — single or multi-harmonic ring modes
 - Sweetness slider: blend between equal temperament and just intonation, string by string, to get that open-chord ring
 - Supports 5-string, tenor, and plectrum banjo with multiple tunings per instrument
+- Fiddle tunings: Standard (GDAE), Cross G, Cross A — with pure-5th sweetening
 - Auto string detection — plays the right string as you tune across the neck
 - Capo / transposition controls
 
@@ -84,7 +85,7 @@ No internet permission. No analytics. No ads. Nothing leaves your device.
 
 ---
 
-*Fundy Tuner v1.2.4 — Android beta*
+*Fundy Tuner v1.3.0 — Android beta*
 
 ---
 
