@@ -85,7 +85,7 @@ No internet permission. No analytics. No ads. Nothing leaves your device.
 
 ---
 
-*Fundy Tuner v1.3.0 — Android beta*
+*Fundy Tuner v1.3.1 — Android beta*
 
 ---
 
