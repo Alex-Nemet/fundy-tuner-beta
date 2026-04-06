@@ -22,7 +22,7 @@ If something breaks or feels off, please let us know — details below.
 - Sweetness slider: blend between equal temperament and just intonation, string by string, to get that open-chord ring
 - Supports 5-string, tenor, and plectrum banjo with multiple tunings per instrument
 - Fiddle tunings: Standard (GDAE), Cross G, Cross A — with pure-5th sweetening
-- Guitar tunings: Standard (with James Taylor method sweetening), Drop D, DADGAD, Open G, Orkney
+- Guitar tunings: Standard (with James Taylor method sweetening), Drop D, DADGAD, Open G, Open D (Vestapol), Sawmill, Double Drop D, Open C, Orkney
 - Auto string detection — plays the right string as you tune across the neck
 - Capo / transposition controls
 - Favorite tunings — star any tuning for quick access at the top of the list
