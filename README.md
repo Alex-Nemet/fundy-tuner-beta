@@ -22,8 +22,11 @@ If something breaks or feels off, please let us know — details below.
 - Sweetness slider: blend between equal temperament and just intonation, string by string, to get that open-chord ring
 - Supports 5-string, tenor, and plectrum banjo with multiple tunings per instrument
 - Fiddle tunings: Standard (GDAE), Cross G, Cross A — with pure-5th sweetening
+- Guitar tunings: Standard (with James Taylor method sweetening), Drop D, DADGAD, Open G, Orkney
 - Auto string detection — plays the right string as you tune across the neck
 - Capo / transposition controls
+- Favorite tunings — star any tuning for quick access at the top of the list
+- Long-press any tuning to edit its name or notes
 
 **Tools**
 - **Bridge Setup** — step-by-step intonation tool. Compares your 12th fret harmonic to the fretted note and tells you which direction to move the bridge and how far (in mm). Works even if your banjo isn't at concert pitch
@@ -35,6 +38,7 @@ If something breaks or feels off, please let us know — details below.
 - Match Pitch: tap a button, play any note on a nearby instrument, and the app shifts all string targets to match its pitch for the session — useful for playing with an out-of-tune piano or matching a recording
 - Dark / light mode
 - Toggle individual features on or off to keep the screen clean
+- Restore stock tunings or reset all settings to defaults
 
 ---
 
@@ -45,7 +49,7 @@ If something breaks or feels off, please let us know — details below.
 3. Open the downloaded file and tap Install
 4. Open Fundy Tuner and grant microphone permission when prompted
 
-> The APK is ~82MB — larger than a native app due to the React Native framework bundled inside. This is normal and doesn't affect performance.
+> The APK is ~87MB — larger than a native app due to the React Native framework bundled inside. This is normal and doesn't affect performance.
 
 > Tested on Android 10 and above. If you run into install issues on your specific device, let us know your Android version.
 
@@ -85,7 +89,7 @@ No internet permission. No analytics. No ads. Nothing leaves your device.
 
 ---
 
-*Fundy Tuner v1.3.1 — Android beta*
+*Fundy Tuner v1.4.0 — Android beta*
 
 ---
 
