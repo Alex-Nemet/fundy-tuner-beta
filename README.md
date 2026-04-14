@@ -20,10 +20,11 @@ If something breaks or feels off, please let us know — details below.
 - Chromatic tape display with real-time cent deviation, sweetener-compensated so the target moves with your intonation setting
 - Precision strobe tuner — single or multi-harmonic ring modes
 - Sweetness slider: blend between equal temperament and just intonation, string by string, to get that open-chord ring
-- Supports 5-string, tenor, and plectrum banjo with multiple tunings per instrument
+- Supports 5-string, tenor, and plectrum banjo with multiple tunings per instrument — including Oh Death, Pretty Polly (Doc Boggs), Indian Summer, Goodbye Old Paint, and more
 - Fiddle tunings: Standard (GDAE), Cross G, Cross A — with pure-5th sweetening
-- Guitar tunings: Standard (with James Taylor method sweetening), Drop D, DADGAD, Open G, Open D (Vestapol), Sawmill, Double Drop D, Open C, Orkney
+- Guitar tunings: Standard (with James Taylor method sweetening), Drop D, DADGAD, Open G, Open D (Vestapol), Open D (Adrianne Lenker), Sawmill, Double Drop D, Open C, Orkney
 - Auto string detection — plays the right string as you tune across the neck
+- String locking — tap any string button to lock the tuner to that string, filtering out harmonics and adjacent strings. Tap again to unlock
 - Capo / transposition controls
 - Favorite tunings — star any tuning for quick access at the top of the list
 - Long-press any tuning to edit its name or notes
@@ -37,7 +38,8 @@ If something breaks or feels off, please let us know — details below.
 **Settings**
 - A4 reference adjustable from 432–446 Hz
 - Match Pitch: tap a button, play any note on a nearby instrument, and the app shifts all string targets to match its pitch for the session — useful for playing with an out-of-tune piano or matching a recording
-- Dark / light mode
+- Dark / light mode with 13 color themes
+- Sensitivity control — adjust how aggressively the tuner filters background noise
 - Toggle individual features on or off to keep the screen clean
 - Restore stock tunings or reset all settings to defaults
 
@@ -90,7 +92,7 @@ No internet permission. No analytics. No ads. Nothing leaves your device.
 
 ---
 
-*Fundy Tuner v1.5.1 — Android beta*
+*Fundy Tuner v1.5.3 — Android beta*
 
 ---
 
