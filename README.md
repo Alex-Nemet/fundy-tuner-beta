@@ -36,7 +36,7 @@ If something breaks or feels off, please let us know — details below.
 - **Identify Tuning** — record 30 seconds of someone playing and the app figures out what tuning they're in. Recognizes Standard G, Sawmill, Sandy River Belle, Double C, Open D, Drop C and more. Runs entirely on-device
 
 **Settings**
-- A4 reference adjustable from 432–446 Hz
+- A4 reference adjustable from 400–500 Hz with Baroque, Verdi, and Standard presets
 - Match Pitch: tap a button, play any note on a nearby instrument, and the app shifts all string targets to match its pitch for the session — useful for playing with an out-of-tune piano or matching a recording
 - Dark / light mode with 13 color themes
 - Sensitivity control — adjust how aggressively the tuner filters background noise
@@ -92,7 +92,7 @@ No internet permission. No analytics. No ads. Nothing leaves your device.
 
 ---
 
-*Fundy Tuner v1.5.3 — Android beta*
+*Fundy Tuner v1.6.0 — Android beta*
 
 ---
 
