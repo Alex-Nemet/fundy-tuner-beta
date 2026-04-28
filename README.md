@@ -33,7 +33,7 @@ If something breaks or feels off, please let us know — details below.
 - **Bridge Setup** — step-by-step intonation tool. Compares your 12th fret harmonic to the fretted note and tells you which direction to move the bridge and how far (in mm). Works even if your banjo isn't at concert pitch
 - **Restring Helper** — plays a sustained drone of each string's target note while you're restringing, with a small strobe so you can tune by ear as you go
 - **Custom Sweetened Tunings** — tune your banjo by ear until it sounds right, then record the string intervals as a named preset. The app captures your exact intonation and lets you retune to it any time
-- **Neck Map** — visualize modes, scales, and chord tones across the fretboard. Overlay pentatonic, blues, and chord shapes on any tuning with scale degree labels and proportional fret spacing
+- **Neck Map** — visualize modes, scales, and chord tones across the fretboard for banjo, fiddle, and guitar. Overlay pentatonic, blues, and chord shapes on any tuning with scale degree labels
 - **Identify Tuning** — record 30 seconds of someone playing and the app figures out what tuning they're in. Recognizes Standard G, Sawmill, Sandy River Belle, Double C, Open D, Drop C and more. Runs entirely on-device
 
 **Settings**
@@ -93,7 +93,7 @@ No internet permission. No analytics. No ads. Nothing leaves your device.
 
 ---
 
-*Fundy Tuner v1.9.0 — Android beta*
+*Fundy Tuner v1.9.1 — Android beta*
 
 ---
 
